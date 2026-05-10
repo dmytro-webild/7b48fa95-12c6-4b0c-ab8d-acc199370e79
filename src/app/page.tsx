@@ -49,7 +49,7 @@ export default function LandingPage() {
       buttons={[
         { text: "Enter Legacy", href: "#about" },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/view-empty-soccer-stadium-with-fantasy-dreamy-sky_23-2151563114.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B1bXpVrGgYbBdQQXf3eg62uVOD/uploaded-1778400345433-q4whgcz5.jpg"
       imageAlt="Kylian Mbappe cinematic tunnel entrance"
       mediaAnimation="blur-reveal"
     />
@@ -119,7 +119,7 @@ export default function LandingPage() {
       rating={5}
       author="Kylian Mbappé"
       avatars={[
-        { src: "http://img.b2bpic.net/free-photo/portrait-man-with-soccer-ball_23-2150904277.jpg", alt: "Mbappe portrait" },
+        { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B1bXpVrGgYbBdQQXf3eg62uVOD/uploaded-1778400400874-7cmtt868.jpg", alt: "Mbappe portrait" },
       ]}
       ratingAnimation="blur-reveal"
       avatarsAnimation="blur-reveal"
@@ -132,10 +132,10 @@ export default function LandingPage() {
       textboxLayout="split"
       useInvertedBackground={true}
       cardClassName="backdrop-blur-lg bg-white/10 border border-white/10"
-      title="Cinematic Visuals"
+      title="FAN TRIBUTE "
       description="Moments in focus."
       blogs={[
-        { id: "b1", category: "Match", title: "The Entrance", excerpt: "Focus.", imageSrc: "http://img.b2bpic.net/free-photo/american-football-player-professional-stadium_654080-942.jpg", authorName: "Mbappe", authorAvatar: "http://img.b2bpic.net/free-photo/full-shot-soccer-woman-kicking-ball_23-2148298860.jpg", date: "2024" },
+        { id: "b1", category: "Match", title: "The Entrance", excerpt: "Focus.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B1bXpVrGgYbBdQQXf3eg62uVOD/uploaded-1778400484452-p2tkxddn.jpg", authorName: "Mbappe", authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B1bXpVrGgYbBdQQXf3eg62uVOD/uploaded-1778400446990-3eezw5wu.jpg", date: "2024" },
       ]}
     />
   </div>
@@ -150,7 +150,7 @@ export default function LandingPage() {
         { name: "name", type: "text", placeholder: "Name" },
         { name: "email", type: "email", placeholder: "Email" },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/gold-black-background-wallpaper-abstract-art_53876-138213.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B1bXpVrGgYbBdQQXf3eg62uVOD/uploaded-1778400560790-h64cf193.jpg"
     />
   </div>
 
